@@ -1,13 +1,13 @@
-package com.ysi.study;
+package hello.thymeleaf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StudyApplication {
+public class ThymeleafBasicApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(StudyApplication.class, args);
+        SpringApplication.run(ThymeleafBasicApplication.class, args);
     }
 
 }
